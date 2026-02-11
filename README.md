@@ -10,7 +10,7 @@ A simulation-driven, explainable AI system for credit decisioning and portfolio 
 
 Traditional credit models are opaque and hard to stress-test.  
 
-This project explores a \*\*simulation-first\*\*, \*\*explainable\*\* alternative using synthetic populations and economic modeling.
+This project explores a **simulation-first**, **explainable** alternative using synthetic populations and economic modeling.
 
 
 
