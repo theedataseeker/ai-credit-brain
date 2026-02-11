@@ -1,4 +1,4 @@
-\# AI Credit Brain 🧠
+# AI Credit Brain 🧠
 
 
 
@@ -6,7 +6,7 @@ A simulation-driven, explainable AI system for credit decisioning and portfolio 
 
 
 
-\## Why this project?
+## Why this project?
 
 Traditional credit models are opaque and hard to stress-test.  
 
@@ -14,7 +14,7 @@ This project explores a \*\*simulation-first\*\*, \*\*explainable\*\* alternativ
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
