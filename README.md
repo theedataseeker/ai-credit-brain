@@ -7,7 +7,7 @@ Traditional credit models are opaque and hard to stress-test.
 This project explores a **simulation-first**, **explainable** alternative using synthetic populations and economic modeling.
 
 ## Project Structure
-ai-credit-brain/
+ai-credit-brain
 ├── data/
 │ ├── raw/
 │ └── synthetic/
