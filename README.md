@@ -7,4 +7,21 @@ Traditional credit models are opaque and hard to stress-test.
 This project explores a **simulation-first**, **explainable** alternative using synthetic populations and economic modeling.
 
 ## Project Structure
-<pre> ```text ai-credit-brain/ ├── data/ │ ├── raw/ │ └── synthetic/ ├── economy/ │ ├── population.py │ ├── loan_simulator.py │ └── cashflow.py ├── features/ │ └── feature_factory.py ├── models/ │ └── baseline_rules.py ├── dashboards/ │ └── economy_monitor.py ├── config.yaml └── main.py ``` </pre>
+<pre>
+ai-credit-brain/
+├── data/
+│   ├── raw/
+│   └── synthetic/
+├── economy/
+│   ├── population.py
+│   ├── loan_simulator.py
+│   └── cashflow.py
+├── features/
+│   └── feature_factory.py
+├── models/
+│   └── baseline_rules.py
+├── dashboards/
+│   └── economy_monitor.py
+├── config.yaml
+└── main.py
+</pre>
