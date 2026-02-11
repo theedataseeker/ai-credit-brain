@@ -19,38 +19,21 @@ This project explores a \*\*simulation-first\*\*, \*\*explainable\*\* alternativ
 
 
 <pre>
-
 ai-credit-brain/
-
 ├── data/
-
 │ ├── raw/
-
 │ └── synthetic/
-
 ├── economy/
-
 │ ├── population.py
-
-│ ├── loan\_simulator.py
-
+│ ├── loan_simulator.py
 │ └── cashflow.py
-
 ├── features/
-
-│ └── feature\_factory.py
-
+│ └── feature_factory.py
 ├── models/
-
-│ └── baseline\_rules.py
-
+│ └── baseline_rules.py
 ├── dashboards/
-
-│ └── economy\_monitor.py
-
+│ └── economy_monitor.py
 ├── config.yaml
-
 └── main.py
-
 </pre>
 
